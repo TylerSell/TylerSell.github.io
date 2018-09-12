@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Like Learning Ruby"
-date:       2018-09-12 16:24:26 +0000
+date:       2018-09-12 12:24:26 -0400
 permalink:  why_i_like_learning_ruby
 ---
 
