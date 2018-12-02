@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "NFL Playoffs: Ruby CLI Portfolio Project"
-date:       2018-12-02 00:32:09 +0000
+date:       2018-12-01 19:32:10 -0500
 permalink:  nfl_playoffs_ruby_cli_portfolio_project
 ---
 
