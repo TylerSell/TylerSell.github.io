@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Portfolio Project:  Estate Locker"
-date:       2020-03-16 23:03:15 +0000
+date:       2020-03-16 19:03:16 -0400
 permalink:  sinatra_portfolio_project_estate_locker
 ---
 
